@@ -1,0 +1,8 @@
+= Generic Maven Parent POM
+
+Provides
+
+ 1. generic defaults for http://maven.apache.org/index.html[Apache Maven] projects.
+
+ 2. single point of change for updating plugin versions.
+
